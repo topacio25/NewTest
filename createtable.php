@@ -1,7 +1,7 @@
 <?php
 // DB connection info
 $host = "tcp:n4yc67pfpu.database.windows.net,1433";
-$user = "topacio25";
+$user = "topacio25@n4yc67pfpu";
 $pwd = "Onemanga09";
 $db = "registration";
 try{
