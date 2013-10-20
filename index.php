@@ -26,9 +26,9 @@
 <?php
 
 // DB connection info
-$host = "localhost\sqlexpress";
-$user = "";
-$pwd = "";
+$host = "n4yc67pfpu.database.windows.net";
+$user = "topacio25";
+$pwd = "Onemanga09";
 $db = "registration";
 // Connect to database.
 try {
