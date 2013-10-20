@@ -1,8 +1,8 @@
 <?php
 // DB connection info
 $host = "n4yc67pfpu.database.windows.net";
-$user = "topacio25";
-$pwd = "Onemanga09";
+$user = "";
+$pwd = "";
 $db = "registration";
 try{
     $conn = new PDO( "sqlsrv:Server= $host ; Database = $db ", $user, $pwd);
