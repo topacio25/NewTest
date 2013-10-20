@@ -1,6 +1,6 @@
 <?php
 // DB connection info
-$host = "tcp:n4yc67pfpu.database.windows.net,1433";
+$host = "localhost\sqlexpress";
 $user = "";
 $pwd = "";
 $db = "registration";

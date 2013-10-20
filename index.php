@@ -27,8 +27,8 @@
 
 // DB connection info
 $host = "tcp:n4yc67pfpu.database.windows.net,1433";
-$user = "";
-$pwd = "";
+$user = "topacio25";
+$pwd = "Onemanga09";
 $db = "registration";
 // Connect to database.
 try {
